@@ -17,7 +17,7 @@ local themes = {
 	Background = Color3.fromRGB(5,5,5), 
 	Glow = Color3.fromRGB(230, 0, 0), 
 	Accent = Color3.fromRGB(0, 0, 0), 
-	LightContrast = Color3.fromRGB(5,5,5), 
+	LightContrast = Color3.fromRGB(10,10,10), 
 	DarkContrast = Color3.fromRGB(40,10,10),  
 	TextColor = Color3.fromRGB(255, 255, 255)
 }
@@ -2168,5 +2168,4 @@ do
 	end
 end
 
-print("dino was here :\)")
 return library
